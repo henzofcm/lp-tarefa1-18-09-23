@@ -9,3 +9,5 @@ Calcular o número de dias entre duas datas, passadas pelo console ou através d
 no formato "28 de Agosto de 2023 - 18 de setembro de 2023"
 
 ## Dia 2
+Elaborar um suíte de testes funcionais unitários para o aplicativo desenvolvido
+por um dos demais grupos participantes
